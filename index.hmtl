@@ -1,4 +1,7 @@
 <html>
+    <head>
+<link rel="stylesheet" href="styles.css">
+    </head>
     <header>
     <div class="logo">
     <img src="https://static.vecteezy.com/system/resources/thumbnails/021/054/364/small/hot-brick-logo-that-can-be-used-for-pizza-company-inspiration-with-vintage-food-utensil-sign-logos-for-restaurants-cafes-clubs-and-badges-free-vector.jpg" class="header-img"> 
