@@ -134,3 +134,14 @@ footer {
 .history-1 {
     margin: 10px;
 }
+
+.bee{
+    border: 15px solid goldenrod;
+    border-radius: 5%
+}
+
+.bee:hover{
+    border: 15px solid darkgoldenrod;
+    border-radius:5%;
+    transition: 0.65s ease-out;
+}
