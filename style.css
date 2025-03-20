@@ -1,6 +1,8 @@
 body {
     font-family: sans-serif, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color: #6c6c6c;
+    color: #fff; 
+    padding-bottom: 50px; /
 }
 
 .ala {
@@ -92,9 +94,14 @@ nav {
 }
 
 footer {
-    background-color: white;
+    background-color: #333; 
+    color: #fff;
     border-radius: 10px;
-    padding: 5px;
+    padding: 20px; 
+    text-align: center;
+    position: relative;
+    width: 100%;
+    margin-top: 30px;
 }
 
 .header-img {
@@ -114,7 +121,7 @@ footer {
 }
 
 .rat {
-    /* Empty class, can be used if needed */
+
 }
 
 .e {
@@ -135,9 +142,19 @@ footer {
     margin: 10px;
 }
 
+.neww{
+    display: flex;
+    justify-content: flex-start;
+}
+
 .bee{
     border: 15px solid goldenrod;
-    border-radius: 5%
+    border-radius: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
 }
 
 .bee:hover{
@@ -145,3 +162,11 @@ footer {
     border-radius:5%;
     transition: 0.65s ease-out;
 }
+
+.video-container {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    margin-top: 20px;
+}
+
